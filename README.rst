@@ -21,3 +21,6 @@ A library for molecular networking based on MS/MS spectra.
 .. |codecov| image:: https://codecov.io/gh/metgem/libmetgem/branch/master/graph/badge.svg
   :target: https://codecov.io/gh/metgem/libmetgem
   :alt: Code Coverage Status
+
+## Install
+   pip install git+git://github.com/hcji/libmetgem@master
